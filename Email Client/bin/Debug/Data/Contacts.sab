@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<phonebook>
+    <contact>
+        <firstname>John</firstname>
+        <lastname>Smith</lastname>
+        <phone>(555) 555-5555</phone>
+        <title>Mr.</title>
+        <country>United States</country>
+        <city>Los Angeles</city>
+        <address>123 Street Ave</address>
+        <zipcode>90021-1111</zipcode>
+        <state>California</state>
+        <email>john.smith@mail.com</email>
+        <website>http://www.example.com</website>
+    </contact>
+</phonebook>

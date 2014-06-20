@@ -1,0 +1,56 @@
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\bin\Release\Email Client.exe
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\bin\Release\Email Client.pdb
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\bin\Release\Email Client.xml
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email Client.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email Client.exe
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email Client.xml
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email Client.pdb
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\bin\Release\Data\Contacts.sab
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\bin\Release\Temp\Temp.html
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.About.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.AddContact.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.AddressBook.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.Compose.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.Help.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.Main.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.Settings.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.SourceView.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.Support.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.Viewer.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.Webmail.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email.Client.Resources.resources
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\bin\Release\Sounds\New Mail.wav
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Interop.WMPLib.dll
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\AxInterop.WMPLib.dll
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\obj\Release\Email Client.vbproj.ResolveComReference.cache
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\bin\Release\Interop.WMPLib.dll
+D:\Documents and Settings\Alex Gurrola\My Documents\Computer Programming\Projects\Email Client\Email Client\bin\Release\AxInterop.WMPLib.dll
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\bin\Release\Sounds\New Mail.wav
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\bin\Release\Data\Contacts.sab
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\bin\Release\Temp\Temp.html
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\bin\Release\Email Client.exe
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\bin\Release\Email Client.pdb
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\bin\Release\Email Client.xml
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\bin\Release\Interop.WMPLib.dll
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\bin\Release\AxInterop.WMPLib.dll
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\ResolveAssemblyReference.cache
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Interop.WMPLib.dll
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\AxInterop.WMPLib.dll
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email Client.vbproj.ResolveComReference.cache
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.About.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.AddContact.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.AddressBook.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.Compose.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.Help.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.Main.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.Settings.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.SourceView.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.Support.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.Viewer.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.Webmail.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email.Client.Resources.resources
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email Client.vbproj.GenerateResource.Cache
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email Client.exe
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email Client.xml
+H:\Programming\Projects\Unsupported\Projects\Email Client\Email Client\obj\Release\Email Client.pdb
